@@ -1,0 +1,10 @@
+<data>  
+    <items>
+        <item name="item1">item1abc</item>
+        <item name="item2">item2abc</item>
+    </items>
+    <items2>
+        <item name="item3">item3abc</item>
+        <item name="item4">item4abc</item>
+    </items2>
+</data> 
